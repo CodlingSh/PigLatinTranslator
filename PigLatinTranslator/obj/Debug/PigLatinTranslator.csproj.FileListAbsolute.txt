@@ -1,0 +1,10 @@
+C:\Users\Sheldon\source\repos\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe.config
+C:\Users\Sheldon\source\repos\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe
+C:\Users\Sheldon\source\repos\PigLatinTranslator\bin\Debug\PigLatinTranslator.pdb
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.csprojAssemblyReference.cache
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.Form1.resources
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.Properties.Resources.resources
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.csproj.GenerateResource.cache
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.exe
+C:\Users\Sheldon\source\repos\PigLatinTranslator\obj\Debug\PigLatinTranslator.pdb
